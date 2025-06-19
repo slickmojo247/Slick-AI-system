@@ -1,0 +1,29 @@
+# Bytecode and cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.env
+
+# Backup files
+*.zip
+*.tar
+*.bak
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# CSVs and generated files
+*.csv
+action_plan.txt
+diff_report.txt
+merge_log.csv
+
+# VS Code settings
+.vscode/
