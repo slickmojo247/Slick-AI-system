@@ -27,3 +27,7 @@ merge_log.csv
 
 # VS Code settings
 .vscode/
+
+# Ignore merge staging folder
+system/cli_extensions/update/
+system/cli_extensions/update/
